@@ -41,7 +41,7 @@ with open('data.txt') as f:
         file_num += 1
         print(file_num)
 
-print("we're done spliting, let's sort'em all now !!")
+print("we're done spliting, let's sort'em all !!")
 
 # STEP 2:
 for k in range(0, len(temp_files)):
@@ -70,5 +70,5 @@ for k in range(0, len(temp_files)):
             f.write(lettre)
 
 ''' So far we have splited the main file into pices of 512 characters
-... And we sorted ch one of them
+... And we sorted each one of them
 ... It is missing the merging part '''
