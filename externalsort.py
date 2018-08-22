@@ -21,20 +21,6 @@
 #                       3/ ok
 #                       4/ ok
 
-'''
-
-new poste
-revoir toute la partie marketing
-faire des macros
-
-tt en python
-stage + data viz + automatisation des extractions de données
-
-projets + 
-
-fiche de route, force de proposition  mais surtout un pôle suport
-
-'''
 import os
 
 shunk = ''
@@ -308,18 +294,3 @@ else:
 	main_file.close()
 	last_file.close()
 	os.remove('merged0.txt')
-
-
-
-
-'''
-for i in range (513):
-    for j in range (513):
-        if file2[i]>file1[j]:
-
-
-If files2[char]
-
-'''
-
-
