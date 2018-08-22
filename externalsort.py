@@ -18,8 +18,8 @@
 
 # How is it so far ? => 1/ ok
 #                       2/ ok
-#                       3/ To Do
-#                       4/ To Do
+#                       3/ ok
+#                       4/ ok
 
 '''
 
